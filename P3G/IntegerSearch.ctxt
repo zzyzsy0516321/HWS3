@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=IntegerSearch
+comment0.text=\n\ All\ written\ by\ Zach\ Zhong\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=myArray\ valueToFind
+comment2.target=int\ findValueInArray(int[],\ int)
+numComments=3
